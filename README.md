@@ -16,6 +16,7 @@ Nossa missão é desenvolver e implementar soluções tecnológicas personalizad
 Estamos comprometidos em oferecer soluções tecnológicas de qualidade, impulsionadas pela inovação e sustentadas por valores sólidos de excelência, integridade, colaboração e responsabilidade social e ambiental.
 
 # Autores
+https://avatars.githubusercontent.com/u/113708065?v=4
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Sophia Mello</sub>](https://github.com/sophiamel) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Ana Carolina</sub>](https://github.com/sasusy-) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113708065?v=4" width=115><br><sub>Sophia Mello</sub>](https://github.com/sophiamel) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Ana Carolina</sub>](https://github.com/sasusy-) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: |
