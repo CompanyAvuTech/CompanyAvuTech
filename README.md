@@ -1,12 +1,12 @@
 # AvuTech
 
-###### Visão Geral
+### Visão Geral
 Bem-vindo ao perfil da ACME Tech Solutions no Git! Somos uma empresa dedicada a fornecer soluções tecnológicas personalizadas e inovadoras para impulsionar o sucesso e o crescimento de nossos clientes. Nossa visão é tornar-se a principal empresa de tecnologia, reconhecida pela inovação, excelência operacional e compromisso com a satisfação do cliente.
 
-##Missão
+### Missão
 Nossa missão é desenvolver e implementar soluções tecnológicas personalizadas que impulsionem o sucesso e o crescimento de nossos clientes, mantendo sempre a qualidade e eficiência em todos os aspectos do nosso trabalho.
 
-**Valores**
+### Valores
 * Excelência: Comprometemo-nos com a excelência em todas as nossas atividades, visando sempre a qualidade e o aprimoramento contínuo.
 * Inovação: Estamos sempre buscando novas maneiras de criar soluções tecnológicas inovadoras e disruptivas, que agreguem valor aos nossos clientes e ao mercado.
 * Integridade: Pautamos nossas ações pela transparência, honestidade e ética, mantendo relações de confiança com nossos clientes, parceiros e colaboradores.
@@ -15,8 +15,7 @@ Nossa missão é desenvolver e implementar soluções tecnológicas personalizad
   
 Estamos comprometidos em oferecer soluções tecnológicas de qualidade, impulsionadas pela inovação e sustentadas por valores sólidos de excelência, integridade, colaboração e responsabilidade social e ambiental.
 
-# Autores
-https://avatars.githubusercontent.com/u/113708065?v=4
+## Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113708065?v=4" width=115><br><sub>Sophia Mello</sub>](https://github.com/sophiamel) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Ana Carolina</sub>](https://github.com/sasusy-) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113708065?v=4" width=115><br><sub>Sophia Mello</sub>](https://github.com/sophiamel) |  [<img loading="lazy" src="" width=115><br><sub>Ana Carolina</sub>](https://github.com/sasusy-) |  [<img loading="lazy" src="" width=115><br><sub>Fernanda Holanda</sub>](https://github.com/fernanda)|   [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113708065?v=4" width=115><br><sub>Sophia Mello</sub>](https://github.com/sophiamel)[<imgloading="lazy"src="https://avatars.githubusercontent.com/u/113708065?v=4" width=115><br><sub>Sophia Mello</sub>](https://github.com/sophiamel)
 | :---: | :---: | :---: |
