@@ -1,7 +1,7 @@
 # AvuTech
 
 ### Visão Geral
-Bem-vindo ao perfil da ACME Tech Solutions no Git! Somos uma empresa dedicada a fornecer soluções tecnológicas personalizadas e inovadoras para impulsionar o sucesso e o crescimento de nossos clientes. Nossa visão é tornar-se a principal empresa de tecnologia, reconhecida pela inovação, excelência operacional e compromisso com a satisfação do cliente.
+Bem-vindo ao perfil da AvuTech no Git! Somos uma empresa dedicada a fornecer tecnológicas personalizadas e inovadoras para impulsionar o sucesso e o crescimento de nossos clientes. Nossa visão é tornar-se a principal empresa de tecnologia, reconhecida pela inovação, excelência operacional e compromisso com a satisfação do cliente.
 
 ### Missão
 Nossa missão é desenvolver e implementar soluções tecnológicas personalizadas que impulsionem o sucesso e o crescimento de nossos clientes, mantendo sempre a qualidade e eficiência em todos os aspectos do nosso trabalho.
@@ -17,5 +17,6 @@ Estamos comprometidos em oferecer soluções tecnológicas de qualidade, impulsi
 
 ## Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113708065?v=4" width=115><br><sub>Sophia Mello</sub>](https://github.com/sophiamel) |  [<img loading="lazy" src="" width=115><br><sub>Ana Carolina</sub>](https://github.com/sasusy-) |  [<img loading="lazy" src="" width=115><br><sub>Fernanda Holanda</sub>](https://github.com/fernanda)|   [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113708065?v=4" width=115><br><sub>Sophia Mello</sub>](https://github.com/sophiamel)[<imgloading="lazy"src="https://avatars.githubusercontent.com/u/113708065?v=4" width=115><br><sub>Sophia Mello</sub>](https://github.com/sophiamel)
+| [<img loading="lazy" src="" width=115><br><sub>Ana Carolina Gonzaga</sub>](https://github.com/sasusy-)  |  [<img loading="lazy" src="" width=115>Ana Carolina Clemente<br><sub></sub>](https://github.com/)  |  [<img loading="lazy" src="" width=115><br><sub>Átila Rufo</sub>](https://github.com/atilarufo) 
+| [<img loading="lazy" src="" width=115><br><sub>Fernanda Holanda</sub>](https://github.com/fernanda) |  [<img loading="lazy" src="" width=115><br><sub>Maria Eliza</sub>](https://github.com/elizateofilo) |  [<img loading="lazy" src="" width=115><br><sub>Sophia Mello</sub>](https://github.com/sophiamel) 
 | :---: | :---: | :---: |
