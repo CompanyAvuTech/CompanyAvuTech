@@ -16,4 +16,7 @@ Nossa missão é desenvolver e implementar soluções tecnológicas personalizad
 Estamos comprometidos em oferecer soluções tecnológicas de qualidade, impulsionadas pela inovação e sustentadas por valores sólidos de excelência, integridade, colaboração e responsabilidade social e ambiental.
 
 ## Contato
-Para entrar em contato conosco, envie um .
+Para entrar em contato conosco, envie um 
+<div  
+  <a href = "mailto:sophia.mello05@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
