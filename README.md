@@ -17,6 +17,6 @@ Estamos comprometidos em oferecer soluções tecnológicas de qualidade, impulsi
 
 ## Autores
 
-| [<img loading="lazy" src="" width=115><br><sub>Ana Carolina Gonzaga</sub>](https://github.com/sasusy-)  |  [<img loading="lazy" src="" width=115>Ana Carolina Clemente<br><sub></sub>](https://github.com/)  |  [<img loading="lazy" src="" width=115><br><sub>Átila Rufo</sub>](https://github.com/atilarufo) 
-| [<img loading="lazy" src="" width=115><br><sub>Fernanda Holanda</sub>](https://github.com/fernanda) |  [<img loading="lazy" src="" width=115><br><sub>Maria Eliza</sub>](https://github.com/elizateofilo) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113708065?v=4" width=115><br><sub>Sophia Mello</sub>](https://github.com/sophiamel) 
+| [<img loading="lazy" src="" width=115><br><sub>Ana Carolina Gonzaga</sub>](https://github.com/sasusy-)  |  [<img loading="lazy" src="" width=115>Ana Carolina Clemente<br><sub></sub>](https://github.com/)  |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113717770?v=4" width=115><br><sub>Átila Rufo</sub>](https://github.com/atilarufo) 
+| [<img loading="lazy" src="" width=115><br><sub>Fernanda Holanda</sub>](https://github.com/fernandaholanda) |  [<img loading="lazy" src="" width=115><br><sub>Maria Eliza</sub>](https://github.com/elizateofilo) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113708065?v=4" width=115><br><sub>Sophia Mello</sub>](https://github.com/sophiamel) 
 | :---: | :---: | :---: |
