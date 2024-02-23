@@ -19,6 +19,9 @@ Estamos comprometidos em oferecer soluções tecnológicas de qualidade, impulsi
 Entre em contato conosco pelo nosso <a href = "mailto:avutech6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> .
 
 
+## Programadores
 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/111385282?v=4" width=115 height=115><br><sub>SM/DEV: Ana Carolina Gonzaga</sub>](https://github.com/Sasury-Ryash)  |  [<img loading="lazy" src="" width=115 height=115>DEV: Ana Carolina Clemente<br><sub></sub>](https://github.com/)  |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113717770?v=4" width=115 height=115><br><sub>P.O/FRONT END: Átila Rufo</sub>](https://github.com/atilarufo) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/95234698?v=4" width=115 height=115><br><sub>ARQ.: Fernanda Holanda</sub>](https://github.com/fefehr13) |  [<img loading="lazy" src="https://github.com/account" width=115 height=115><br><sub>ARQ.: Maria Eliza</sub>](https://github.com/elizateofilo) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113708065?v=4" width=115 height=115><br><sub>DEV BACK END: Sophia Mello</sub>](https://github.com/sophiamel) 
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 
